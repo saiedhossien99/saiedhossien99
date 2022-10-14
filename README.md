@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @saiedhossien99
-- 👀 I’m interested in reading books,wathcing movies,travelling and analysis on verous things
+- 👀 I’m interested in reading books,wathcing movies,travelling and analysis on verious things
 - 🌱 I’m currently learning fullstack web devlopment
 
 <!---
